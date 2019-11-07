@@ -52,7 +52,7 @@ The following steps discuss the overall workflow of the pipeline in the mentione
 ## Personnel 
 
 Rohan Singh: I am in my third semester of M.Eng. in Robotics at University of Maryland. You can follow me on my [Linkedin](www.linkedin.com/in/rohansingh42)
-Arjun Gupta: I am in my third semester of M.Eng. in Robotics at University of Maryland. My research interest lies in the field of computer vision. You can follow me on my [Linkedin](https://www.linkedin.com/in/arjung27/)
+Arjun Gupta: I am in my first semester of M.Eng. in Robotics at University of Maryland. My research interest lies in the field of computer vision. You can follow me on my [Linkedin](https://www.linkedin.com/in/arjung27/)
 
 ## Product Backlog 
 [![Packagist](https://img.shields.io/badge/AIP-Backlog-orange)](https://docs.google.com/spreadsheets/d/1Du2DV9m7JFUn_xO6RULXBDN6mna-3IR8e5ZURudZHeg/edit?usp=sharing)
